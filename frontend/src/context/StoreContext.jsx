@@ -6,7 +6,7 @@ export const StoreContext = createContext(null);
 const StoreContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
   // i made these addtocart and removetocart cz ye nhi hote context provider se to hr component me add and remove ke alg states bnte..now we can use these functions in any component
-  const url = "http://localhost:4000";
+  const url = "https://savorify.onrender.com";
   const [token, setToken] = useState("");
   const [food_list, setFoodList] = useState([]);
 
