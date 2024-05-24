@@ -1,9 +1,12 @@
 .navbar{
+  
   padding: 20px 10px;
   display: flex;
   justify-content: space-between;
   align-items: center; 
   font-family: cursive;
+
+  background:linear-gradient( 180deg, #a49b95, #f0eae8);
 }
 
 

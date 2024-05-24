@@ -13,7 +13,7 @@ bodyparser- parse data coming through system
 
 multer- image store system
 
-stripe-image gateway system
+stripe-payment gateway system
 
 validator- credentials are valid or not
 

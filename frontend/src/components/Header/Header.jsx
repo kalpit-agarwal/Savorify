@@ -2,6 +2,7 @@ import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
 import ExploreMenu from "../ExploreMenu/ExploreMenu";
+import header_img from "../../assets/header_img.jpg";
 const Header = () => {
   return (
     <div className="header">

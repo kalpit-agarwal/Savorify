@@ -1,5 +1,7 @@
 .my-orders{
 margin: 50px 0px;
+background-color: whitesmoke;
+padding: 20px;
 }
 
 .my-orders .container{

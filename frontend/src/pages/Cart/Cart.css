@@ -1,13 +1,17 @@
 .cart{
   margin-top: 100px;
-
+  background: white;
+width: 80vw;
+border-radius: 10px;
+padding: 20px;
 }
 .cart-items-title{
   display: grid;
   grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 0.5fr;
   align-items: center;
-  color: grey;
-  font-size: max(1vw,12px);
+  color: rgb(25, 15, 20);
+  font-size: max(1vw,14px);
+  font-weight: 600;
 }
 
 .cart-items-item{
@@ -22,7 +26,7 @@
 
 .cart hr{
     height: 1px;
-    background-color: #e2e2e2;
+    background-color: #100e0e;
     border: none;
 }
 .cart-items-item .cross{
@@ -47,7 +51,7 @@
 .cart-total-details{
   display: flex;
   justify-content: space-between;
-  color: #555;
+  color: #362525;
 }
 
 .cart-totals hr{

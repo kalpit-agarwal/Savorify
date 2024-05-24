@@ -2,6 +2,7 @@
   width: 100%;
   margin: auto;
   border-radius: 15px;
+  background-color: #3e362d;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
   transition: 0.3s ;
   animation: fadeIn 1s;
@@ -38,7 +39,7 @@
 }
 
 .food-item-description{
-  color: #9f745d;
+  color: #f9ded0;
   font-size: 13px;
 }
 

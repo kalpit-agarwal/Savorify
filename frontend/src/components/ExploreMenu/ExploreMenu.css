@@ -3,6 +3,8 @@
   flex-direction: column;
   gap:20px;
   font-family: cursive;
+ 
+  
 }
 
 .explore-menu h1{
@@ -13,7 +15,7 @@
 
 .explore-menu-text{
   max-width: 60%;
-  columns: #b37070;
+  columns: #040404;
 }
 
 .explore-menu-list{
@@ -41,7 +43,7 @@ transition: 0.2s;
 }
 .explore-menu-list-item p{
   margin-top: 10px;
-  color: #747474;
+  color: #000000;
   font-size: max(1.4vw,16px);
   cursor: pointer;
 }
