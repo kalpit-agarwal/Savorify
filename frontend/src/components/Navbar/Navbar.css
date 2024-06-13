@@ -10,9 +10,9 @@
 }
 
 
-.navbar .logo{
-  width: 200px;
-}
+  .navbar .logo{
+    width: 200px;
+  }
 
 .navbar-menu{
     display: flex;
